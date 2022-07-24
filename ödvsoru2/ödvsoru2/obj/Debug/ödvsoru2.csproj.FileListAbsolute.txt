@@ -1,0 +1,12 @@
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\bin\Debug\ödvsoru2.exe.config
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\bin\Debug\ödvsoru2.exe
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\bin\Debug\ödvsoru2.pdb
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.csproj.SuggestedBindingRedirects.cache
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.Form1.resources
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.Properties.Resources.resources
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.csproj.GenerateResource.cache
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.exe
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.pdb
+C:\Users\90534\source\repos\ödvsoru2\ödvsoru2\obj\Debug\ödvsoru2.Form2.resources
